@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "operaçoes.C": "cpp"
+        "operaçoes.C": "cpp",
+        "stdlib.h": "c"
     }
 }
